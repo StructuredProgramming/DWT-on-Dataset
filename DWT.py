@@ -3,9 +3,6 @@ import os
 import numpy as np
 import pywt
 import matplotlib.pyplot as plt
-
-
-
 from PIL import Image as PImage
 
 def loadImages(path):
